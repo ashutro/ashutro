@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **iamashutosh.kumar.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZtCX58TjbdJSj8xJM7HV2qIkOcyFDhHb/view?usp=sharing](https://drive.google.com/file/d/1ZtCX58TjbdJSj8xJM7HV2qIkOcyFDhHb/view?usp=sharing)
+- 📄 Know about my experiences [Ashutosh Kumar's Resume](https://drive.google.com/file/d/1ZtCX58TjbdJSj8xJM7HV2qIkOcyFDhHb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
