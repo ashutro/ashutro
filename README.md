@@ -83,8 +83,10 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutro&show_icons=true&locale=en&layout=compact" alt="ashutro" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutro&show_icons=true&locale=en" alt="ashutro" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutro&" alt="ashutro" /></p>
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashutro&show_icons=true&locale=en" alt="ashutro stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutro" alt="ashutro streak" height="195" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ashutro&show_icons=true&locale=en&layout=compact" alt="ashutro top langs" />
+</p>
