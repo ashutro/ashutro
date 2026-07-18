@@ -56,28 +56,7 @@
 
 <br>
 
-<h3 align="left">🚀 Projects</h3>
-<details>
-  <summary><b>Databricks Lakeflow Multi-Source Ingestion Platform</b></summary>
-  <ul>
-    <li>Designed Databricks ingestion frameworks for SQL, API, ServiceNow, Adobe, ACS, and ICH sources, reducing duplicate development by 80% through reusable components.</li>
-    <li>Implemented Azure Key Vault-backed secret retrieval, parameter-driven ingestion, Delta Lake tables, and automated data quality checks, improving validation coverage by 85%.</li>
-    <li>Migrated legacy workflows into Lakeflow Designer, improving pipeline visibility and dependency tracking by 80% while reducing support effort by 70%.</li>
-    <li>Built bronze, silver, gold, and serving layers for analytics and reporting, improving downstream data readiness by 75% for business users.</li>
-    <li>Automated job orchestration, retries, and alerting patterns, reducing manual recovery effort by 70% for production pipeline failures.</li>
-  </ul>
-</details>
 
-<details>
-  <summary><b>Hotel Recommendation System</b></summary>
-  <ul>
-    <li>Built a hotel recommendation system using Spark and Python, integrating TripAdvisor reviews with hotel metadata and improving user engagement by 30%.</li>
-    <li>Applied machine learning models and sentiment analysis to personalize recommendations, boosting customer satisfaction by 35%.</li>
-    <li>Streamlined ETL processes to merge hotel metadata and review sentiment, improving recommendation precision and real-time usability.</li>
-  </ul>
-</details>
-
-<br>
 
 <h3 align="left">🏆 Awards & Certifications</h3>
 <details>
